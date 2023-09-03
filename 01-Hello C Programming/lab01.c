@@ -1,3 +1,11 @@
+
+/* 
+ *Embedded systems software diploma 
+ *Author : Ahmed khairy 
+ *Date :  
+ *Session :  
+ *Program function: 
+ */
 #include <stdio.h>
 #include <stdlib.h>
 
