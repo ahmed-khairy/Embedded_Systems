@@ -1,6 +1,10 @@
-#include <stdio.h>
-#include <stdlib.h>
-/*
+
+/* 
+ *Embedded systems software diploma 
+ *Author : Ahmed khairy 
+ *Date :  
+ *Session :  
+ *Program function: 
 *choose two best players
 *what is the number of each player
 *take those two numbers and put them into two variables
@@ -10,8 +14,9 @@
 *my favorite player is ... and his first character is ... from variables
 *adding subtraction division multiplication between each player and his number
 *screen shot for the output and the source code
-*/
-
+ */
+#include <stdio.h>
+#include <stdlib.h>
 
 int main()
 {
