@@ -1,3 +1,9 @@
+
+/* 
+ *Author : Ahmed khairy 
+ *Date :
+ *Program function: 
+ */
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
