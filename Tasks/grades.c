@@ -20,21 +20,20 @@ int main()
         {
         case 10:
         case 9:
-            printf("Congratulation, you get A rank");
+            printf("Congratulation, you got Excellent rank");
             break;
         case 8:
-            printf("Congratulation, you get B rank");
+            printf("Congratulation, you got Very Good rank");
             break;
         case 7:
-            printf("Congratulation, you get C rank");
+            printf("Congratulation, you got Good rank");
             break;
         case 6:
-            printf("Congratulation, you get D rank");
+            printf("Congratulation, you have passed");
             break;
         case 5:
-            break;
         default:
-            printf("Sorry to inform that you get F rank");
+            printf("Sorry to inform that you have Failed");
             break;
         }
         printf("\n");
