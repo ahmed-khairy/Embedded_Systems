@@ -1,0 +1,2 @@
+
+int getFactorial(int num);
