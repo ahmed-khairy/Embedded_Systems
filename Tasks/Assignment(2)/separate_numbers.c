@@ -1,9 +1,9 @@
 /*
 *Embedded systems software diploma
 *Author : Ahmed khairy
-*Date : 9/4/2023
+*Date : 9/9/2023
 *Session :
-*Program function: convert any decimal number to binary and print it on screen
+*Program function: Enter any number then separate it to its primary digits
 */
 
 #include <stdio.h>
