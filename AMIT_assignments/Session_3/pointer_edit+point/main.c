@@ -13,9 +13,9 @@
 int main() {
 	int x;
 	printf("Enter the value of X\n");
-	scanf("%d", &x);
-	printf("Before calling edit x = %d\n", x);
+	scanf("%x", &x);
+	printf("Before calling edit x = %p\n", x);
 	edit(&x);
-	printf("After calling edit x = %d\n", x);
+	printf("After calling edit x = %p\n", x);
 	return 0;
 }
