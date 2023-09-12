@@ -7,7 +7,7 @@
  */
 
 #include<stdio.h>
-#include"cursive.h"
+#include"cursion.h"
 
 int main() {
 	int a, b, sum, n, i;
