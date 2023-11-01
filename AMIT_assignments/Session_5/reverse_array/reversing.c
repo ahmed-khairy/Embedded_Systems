@@ -1,14 +1,15 @@
 #include<stdio.h>
 #include"printnumbers.h"
 void reverseArray(int arr[], int arr_size) {
-	int i, x,newarr[5];
+	int i,temp;
 	printf("Reverse of array: ");
 
-	for (i = 0; i < arr_size; i++) {
-		x = arr[i];
-		newarr[arr_size - i - 1] = x;
+	for (i = 0; i < arr_size / 2; i++) {
+		temp = arr[i];
+		arr[i] = arr[arr_size - 1 - i];
+		arr[arr_size - 1 - i] = temp;
 	}
-	printNumbers(newarr,arr_size);
+	printNumbers(arr, arr_size);
 	printf("\n");
 
 }
